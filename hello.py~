@@ -1,5 +1,11 @@
 def hello()
 	print('Hello Me')
+<<<<<<< HEAD
+	# hihi
+=======
+	print('Hello Me')
+	#Hi Me
+>>>>>>> add-excitement
 
 if __name__ == "__main__"
 	print hello()
